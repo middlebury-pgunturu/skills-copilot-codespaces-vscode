@@ -1,4 +1,4 @@
-// Create a web server that can respond to a GET request to /comments with an array of comments, 
+// Create web server that can respond to a GET request to /comments with an array of comments, 
 // regardless of the HTTP method. Use the fs module to read the comments.json file and send its parsed 
 // content back to the client. Use the code from the readJSON function in the previous exercise to parse the 
 // file content. Use the code from the writeJSON function to send the response.
